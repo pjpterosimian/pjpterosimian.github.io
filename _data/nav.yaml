@@ -1,0 +1,7 @@
+---
+- url: /index.html
+  title: Home
+- url: /about.html
+  title: About
+- url: https://www.patreon.com/pjp
+  title: Fund me
